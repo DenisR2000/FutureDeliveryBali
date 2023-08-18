@@ -1,0 +1,33 @@
+:root {
+    --white: #ffffff;
+    --background: #ffffff;
+    --font-color:black;
+    --headerColor: #AEB9F1;
+    --navMenuColor: #ffffff;
+    --violet: #AEB9F1;
+    --buttonBackground: #AEB9F1;
+    --orange: #F2982A;
+    --select-color:#ffffff;
+    --news-items-color:#f5f5f5;
+  
+  
+    --red: #DC2626;
+    --error: #F87171;
+    --iconsColor: black;
+    /* --violet: #a5b0cc; */
+  
+    --almostBlack: #333333;
+  
+    --white-icon-color:#DADADA;
+  
+    --subjectTextColor: #4F4F4F;
+    --text-gray:#667080;
+    /* --text-gray2: #333333; */
+  
+    --selectText:#A5B0CC;
+  
+    --journal-not-selected:#969696;
+    --radio-success:#497008;
+    --radio-orange: #F2982A;
+    --radio-red:#CB1E1E;
+  }

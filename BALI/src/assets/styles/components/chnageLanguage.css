@@ -1,0 +1,26 @@
+.language-selector select {
+    appearance: none;
+    background-color: transparent;
+    background-image: url('https://cdn.iconscout.com/icon/free/png-256/arrow-down-1784103-1518334.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #333;
+    cursor: pointer;
+    outline: none;
+    width: 200px;
+  }
+  
+  .language-selector select option {
+    padding: 10px;
+    background-color: #fff;
+    color: #333;
+    font-size: 16px;
+  }
+  
+  .language-selector select option:hover {
+    background-color: #ddd;
+  }

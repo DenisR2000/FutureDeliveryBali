@@ -1,0 +1,52 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+
+}
+
+header>div>div {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+
+}
+
+.logoWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.brandName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.catalog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.language {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.iconWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
